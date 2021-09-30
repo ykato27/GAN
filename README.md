@@ -15,36 +15,51 @@
 │   ├── AnoGAN
 │   │   └── AnoGAN.ipynb
 │   ├── BIGGAN
+│   │   ├── 06_BigGAN.ipynb
 │   │   └── BigGAN_TF_Hub_Demo.ipynb
 │   ├── CGAN
 │   │   └── Chapter_8_CGAN.ipynb
 │   ├── CycleGAN
+│   │   ├── 05_CycleGAN.ipynb
 │   │   ├── CycleGAN_PyTorch.ipynb
 │   │   ├── CycleGAN_TensorFlow.ipynb
 │   │   └── CycleGAN_pytorch_junyanz.ipynb
+│   ├── DALL·E_mini_Inference_pipeline.ipynb
 │   ├── DANN
 │   │   └── DANN.ipynb
 │   ├── DCGAN
+│   │   ├── 03_Deep_Convolutional_GAN.ipynb
+│   │   ├── 04_conditional_DC_GAN.ipynb
+│   │   ├── 2_4_dcgan_faces_tutorial_jp.ipynb
 │   │   ├── Chapter_4_DCGAN.ipynb
 │   │   ├── dcgan_cifar_tutorial.ipynb
 │   │   ├── mnist_dcgan_pytorch.ipynb
 │   │   └── tensorflow_dcgan.ipynb
+│   ├── DiracGAN.ipynb
 │   ├── EGBAD
 │   │   └── EGBAD.ipynb
 │   ├── EfficientGAN
 │   │   └── Anomaly_detection_EfficientGAN.ipynb
 │   ├── GAN
-│   │   └── Chapter_3_GAN.ipynb
+│   │   ├── 02_GAN.ipynb
+│   │   ├── Chapter_3_GAN.ipynb
+│   │   └── GAN_loss_types.ipynb
 │   ├── Neural_Style_Transfer_with_tf_keras.ipynb
 │   ├── SGAN
 │   │   └── Chapter_7_SGAN.ipynb
 │   ├── StyleGAN
+│   │   ├── 06_StyleGAN.ipynb
 │   │   ├── StyleGAN2_ADA_PyTorch.ipynb
 │   │   ├── StyleGAN_edit.ipynb
+│   │   ├── StyleGAN_inference_playground.ipynb
 │   │   ├── StyleGAN_nada.ipynb
 │   │   ├── StyleGAN_pytorch_1.ipynb
 │   │   └── tensorflow_style_transfer.ipynb
-│   └── tensorflow_style_transfer.ipynb
+│   ├── fgsm_tutorial_jp.ipynb
+│   ├── gan_mlp_mnist_pytorch_lightning.ipynb
+│   ├── gan_mog_mode_hopping.ipynb
+│   ├── tensorflow_style_transfer.ipynb
+│   └── visualize.ipynb
 ├── pyproject.toml
 ├── requirements.txt
 ├── setup.cfg
