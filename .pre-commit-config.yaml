@@ -16,13 +16,6 @@ repos:
     hooks:
       - id: flake8
 
-  - repo: https://github.com/markdownlint/markdownlint
-    rev: master
-    hooks:
-      - id: markdownlint
-        # ignore line length of makrdownlint
-        args: [-r, ~MD013]
-
   - repo: https://github.com/nbQA-dev/nbQA
     rev: 1.1.1
     hooks:
