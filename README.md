@@ -44,6 +44,10 @@
 │   │   ├── 02_GAN.ipynb
 │   │   ├── Chapter_3_GAN.ipynb
 │   │   └── GAN_loss_types.ipynb
+│   ├── GANSketching_Sketch_Your_Own_GAN_Examples.ipynb
+│   ├── JAX_GAN.ipynb
+│   ├── LightWeight-GAN
+│   │   └── LightWeight_GAN.ipynb
 │   ├── Neural_Style_Transfer_with_tf_keras.ipynb
 │   ├── SGAN
 │   │   └── Chapter_7_SGAN.ipynb
